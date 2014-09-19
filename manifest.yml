@@ -1,0 +1,9 @@
+applications:
+- name: BluemixSampleJJS
+  memory: 512M
+  host: BluemixSampleJJS
+  domain: mybluemix.net
+  env: {
+    }
+  services: {
+    }
